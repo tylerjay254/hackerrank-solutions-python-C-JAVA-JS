@@ -31,9 +31,9 @@
 👉 identify the category of the problem you are about to solve i.e *interview preperation*,*problem solving*,*language basics* 
 - 
 👉 check if there alredy exists a solution in the repository, if yes ,check for bugs or the efficiency of existing code
-* 
+- 
 👉 if solution exists in another language and not your preferable one , well go ahead drop the code!
-* 
+- 
 👉 else:👉
 - 
             👉 create a folder in the category , name it as the problem name as it is in hackerank
