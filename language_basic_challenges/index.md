@@ -1,0 +1,11 @@
+# LANGUAGE BASIC SOLUTIONS INDEX
+
+
+--- 
+*EXAMPLE HELLO WORLD*
+
+[HELLO_WORLD](HELLO_WORLD/index.md)
+- 
+--- 
+
+---
