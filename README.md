@@ -33,21 +33,21 @@
 👉 check if there alredy exists a solution in the repository, if yes ,check for bugs or the efficiency of existing code
 👉 if solution exists in another language and not your preferable one , well go ahead drop the code!
 👉 else:👉
-            - 
+- 
             👉 create a folder in the category , name it as the problem name as it is in hackerank
-            - 
+    - 
             👉 create an index.md file 
-            - 
+    - 
             👉 create subfolders name them as the languages prefered ie. python , c ,java ,js ,ts ,any other language of your choice
-            - 
+    - 
             👉 add your file in the folder that relate to the language you are using, to implement the problem 
-            - 
+    - 
             👉 create empty files in with the file extentions that relate to the folder names && comment *not implemented in the files*
-            - 
+    - 
             👉 in the main index.md file in the project categories add a link that maps to your solution
-            -
+    - 
             👉 create pull request
-            -
+    - 
             👉 repeat once you solve another
 
 
