@@ -12,15 +12,15 @@
 ---
 # LANGUAGE BASIC SOLUTIONS
 - 
-[LANGUAGE_BASIC](language_basic_challenges/index.md)
+[LANGUAGE_BASIC](solutions/language_basic_challenges/index.md)
 ---
 # PROBLEM SOLVING SOLUTIONS
 - 
-[PROBLEM_SOLVING](problem_solving/index.md)
+[PROBLEM_SOLVING](solutions/problem_solving/index.md)
 ---
 # INTERVIEW PREPERATION SOLUTIONS
 - 
-[INTERVIEW_PREP](interview_preperation/index.md)
+[INTERVIEW_PREP](solutions/interview_preperation/index.md)
 ---
 
 - 
